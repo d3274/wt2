@@ -8,3 +8,4 @@ wild terra 2 dump
 - __[бафы](BUFFS.md)__
 - __[рыба](FISHES.md)__
 - __[скрытые рецепты](RECIPES.md)__
+- __[расколотый замок](CASTLE.md)__
