@@ -1,10 +1,10 @@
 wild terra 2 dump
-- __[возможные метки при крафте](https://github.com/F4kogLc/wt2/blob/main/CRAFTS.md)__
-- __[мобы и их скиллы, дебафы, кулдауны](https://github.com/F4kogLc/wt2/blob/main/MOBS.md)__
-- __[все петы и их перки](https://github.com/F4kogLc/wt2/blob/main/PETS.md)__
-- __[кулдауны всех мобов](https://github.com/F4kogLc/wt2/blob/main/COOLDOWNS.md)__
-- __[формулы](https://github.com/F4kogLc/wt2/blob/main/FORMULAS.md)__
-- __[дропы, проценты](https://github.com/F4kogLc/wt2/blob/main/DROPS.md)__
-- __[бафы](https://github.com/F4kogLc/wt2/blob/main/BUFFS.md)__
-- __[рыба](https://github.com/F4kogLc/wt2/blob/main/FISHES.md)__
-- __[скрытые рецепты](https://github.com/F4kogLc/wt2/blob/main/RECIPES.md)__
+- __[возможные метки при крафте](CRAFTS.md)__
+- __[мобы и их скиллы, дебафы, кулдауны](MOBS.md)__
+- __[все петы и их перки](PETS.md)__
+- __[кулдауны всех мобов](COOLDOWNS.md)__
+- __[формулы](FORMULAS.md)__
+- __[дропы, проценты](DROPS.md)__
+- __[бафы](BUFFS.md)__
+- __[рыба](FISHES.md)__
+- __[скрытые рецепты](RECIPES.md)__
