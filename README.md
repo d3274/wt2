@@ -9,3 +9,4 @@ wild terra 2 dump
 - __[рыба](FISHES.md)__
 - __[скрытые рецепты](RECIPES.md)__
 - __[расколотый замок](CASTLE.md)__
+- __[сезоны](SEASONS.md)__
