@@ -10,3 +10,4 @@ wild terra 2 dump
 - __[скрытые рецепты](RECIPES.md)__
 - __[расколотый замок](CASTLE.md)__
 - __[сезоны](SEASONS.md)__
+- __[лутбоксы](LOOTBOXES.md)__
